@@ -18,7 +18,7 @@ This project is simple and intended for beginners to learn how an AI chatbot wor
 
 1. Clone the repository:
 ```bash
-git clone "link of the repo"
+git clone https://github.com/Albaraa-Alluhaibi/OpenAi-ChatBot.git
 ```
 
 2.Go into the project folder:
